@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+button{
+  cursor:pointer;
+}
+.modal_div{
+  width:30%;
+  margin:auto;
+  margin-top:5vw;
+  border:1px solid black;
+  padding:1vw;
+  display: flex;
+  flex-direction: column;
+  row-gap: 2vw;
+}
+.chatapp{
+  width:50%;
+  min-height:20vw;
+  margin:auto;
+  border:1px solid gray;
+}
